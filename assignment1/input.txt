@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {/*There is a 33 characters as comment.*/
+int number_one = 3;
+int number_two = 4;
+int add = number_one + number_two;
+return 0;
+}
